@@ -1,10 +1,10 @@
-#Data-Driven Innovations In Supply Chain Management With Qlik Insights
+# Data-Driven Innovations In Supply Chain Management With Qlik Insights
 
-###Dataset Link: **https://drive.google.com/file/d/10f6V8RQ9qfFz4Nvnzxk1YUPS-Nqhs51T/view?usp=sharing**
+### Dataset Link: **https://drive.google.com/file/d/10f6V8RQ9qfFz4Nvnzxk1YUPS-Nqhs51T/view?usp=sharing**
 ### Project Demonstration Link: 
 **https://drive.google.com/file/d/1F6TSQM_76gxYb-0bTyp497psvRxsv8VQ/view?usp=sharing**
 
-##**Overview**
+## **Overview**
 
 Our project aims to improve how we manage our supply chain by employing such analytical tools as Qlik that can help clarify data. We would like to operate more efficiently, respond quickly, and increase effectiveness in areas such as goods transportation, inventory management and market research.
 
